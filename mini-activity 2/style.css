@@ -1,0 +1,13 @@
+table, td {
+    border: 1px solid gray;
+    
+}
+
+td {
+    padding: 100px
+}
+
+.center{
+    margin-left: auto;
+    margin-right: auto;
+}
